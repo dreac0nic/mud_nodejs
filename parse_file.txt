@@ -1,0 +1,5 @@
+This is the first line.
+Is this the second?
+data:seperated:by:colons
+What even is text parsing?
+Think we can regex our way out? I don't think so.
